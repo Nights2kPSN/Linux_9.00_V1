@@ -18,7 +18,7 @@ This is a linux Payloads host configured in the best way for ps4:
 
 - IDE: Notepad++
 
-- UI Website PS4
+- UI Website PS4 (Optional)
 
 ## Alert
 
